@@ -25,7 +25,7 @@ A comprehensive analysis of a 2023 Stack Overflow dataset encompassing computer 
 	•	Enhance Career Planning: Inform career decisions by equipping developers with data-driven insights into emerging trends and high-demand skills across different geographic locations.
 <font color='black'> <font face="roboto" size="2">Ultimately, this research aspires to contribute valuable knowledge to the broader tech community, fostering a more informed and balanced global distribution of developer talent and propelling the industry towards its full potential.
 
-#<font color='DarkGreen'> <font face="roboto" size="5"> **IMPORTING TOOLS**
+<font color='DarkGreen'> <font face="roboto" size="5"> **IMPORTING TOOLS**
 
     <img src="https://res.cloudinary.com/dezsrv0us/image/upload/c_pad,w_500,h_300/v1706450114/3_jb00sy.png">
 </center>
@@ -40,7 +40,7 @@ In this case, we start by importing some of the most powerful libraries availabl
 
 <font color='black'> <font face="roboto" size="2">By importing these indispensable tools at the beginning of our analysis, we ensured that we have everything at our disposal to successfully handle any data-related challenge that comes our way confidently.
 
-#<font color='DarkGreen'> <font face="roboto" size="5"> **DATA COLLECTION/ EXTRACTION**
+<font color='DarkGreen'> <font face="roboto" size="5"> **DATA COLLECTION/ EXTRACTION**
 
 <center>
     <img src="https://res.cloudinary.com/dezsrv0us/image/upload/c_pad,w_500,h_300/v1706450882/8_ldsnpy.png">
@@ -49,13 +49,13 @@ In this case, we start by importing some of the most powerful libraries availabl
 <font color='black'> <font face="roboto" size="2">In order to perform a comprehensive analysis of the data from [Stack Overflow](https://insights.stackoverflow.com/survey), the next step entailed adding the csv data into Google Colab.
 By importing the csv file containing the Stack Overflow data, We were able to leverage various Python libraries such as Pandas and NumPy to extract meaningful insights. This process ensures that all relevant information is readily available for examination.
 
-#<font color='DarkGreen'> <font face="roboto" size="5"> **DATA CLEANING**
+<font color='DarkGreen'> <font face="roboto" size="5"> **DATA CLEANING**
 
 <center>
     <img src="https://res.cloudinary.com/dezsrv0us/image/upload/c_pad,w_500,h_300/v1706451141/9_uhjpfd.png">
 </center>
 
-## <font color='forestGreen'> <font face="roboto" size="4"> **ISSUES IDENTIFIED**
+<font color='forestGreen'> <font face="roboto" size="4"> **ISSUES IDENTIFIED**
 
 * <font color='black'> <font face="roboto" size="2">Issue we saw with the data
 Columns had null values- for columns with data type 'object' we dropped the null values, columns with data type 'interger' or "float" we replaced with the mean
@@ -65,7 +65,7 @@ Columns had null values- for columns with data type 'object' we dropped the null
 * <font color='black'> <font face="roboto" size="2">We also renamed some columns like YearsCode to Years of coding
 * <font color='black'> <font face="roboto" size="2">To make our visualisation appealing, we replaced values in the Age column. Values replaced was 'under 18 years old' with '0-17 years old'
 
-* #<font color='DarkGreen'> <font face="roboto" size="5"> **DATA VISUALIZATIONS**
+<font color='DarkGreen'> <font face="roboto" size="5"> **DATA VISUALIZATIONS**
 
 * * <font color='black'> <font face="roboto" size="2"> Univariate
   *  <font color='black'> <font face="roboto" size="2"> Bivariate
