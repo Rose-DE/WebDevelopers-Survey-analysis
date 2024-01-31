@@ -1,3 +1,6 @@
+#<font color='DarkGreen'> <font face="roboto" size="5"> **INTRODUCTION**
+
+---
 <center>
     <img src="https://res.cloudinary.com/dezsrv0us/image/upload/c_pad,w_500,h_300/v1706448387/1_juhm4z.png">
 </center>
@@ -27,6 +30,7 @@ A comprehensive analysis of a 2023 Stack Overflow dataset encompassing computer 
 
 <font color='DarkGreen'> <font face="roboto" size="5"> **IMPORTING TOOLS**
 
+    <center>
     <img src="https://res.cloudinary.com/dezsrv0us/image/upload/c_pad,w_500,h_300/v1706450114/3_jb00sy.png">
 </center>
 <font color='black'> <font face="roboto" size="2">The first step, and indeed the most crucial one, in any data analysis project is to import the necessary tools that enabled us to effectively manipulate and visualize our data.
