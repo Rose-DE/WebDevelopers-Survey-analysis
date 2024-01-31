@@ -34,7 +34,7 @@ A comprehensive analysis of a 2023 Stack Overflow dataset encompassing computer 
 <font color='DarkGreen'> <font face="roboto" size="5"> **IMPORTING TOOLS**
 ---
 
-    <center>
+<center>
     <img src="https://res.cloudinary.com/dezsrv0us/image/upload/c_pad,w_500,h_300/v1706450114/3_jb00sy.png">
 </center>
 
