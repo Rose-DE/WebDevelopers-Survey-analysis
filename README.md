@@ -11,7 +11,8 @@
 <font color='black'> <font face="roboto" size="2">
 Welcome to the Developer Insights Project - an in-depth exploration into the lives of developers worldwide, based on Stack Overflow data for the year 2023. This project delves into key aspects such as developers' education levels, current salaries, skill proficiency, preferred programming languages, databases in use, and more. Through comprehensive analysis, we aim to provide valuable insights and a deeper understanding of the diverse experiences and trends within the global developer community.
 
-<font color='forestGreen'> <font face="roboto" size="4"> **PROBLEM STATEMENT**
+<font color='DarkGreen'> <font face="roboto" size="5"> **PROBLEM STATEMENT**
+
 ---
 
 <center>
@@ -32,6 +33,7 @@ A comprehensive analysis of a 2023 Stack Overflow dataset encompassing computer 
 <font color='black'> <font face="roboto" size="2">Ultimately, this research aspires to contribute valuable knowledge to the broader tech community, fostering a more informed and balanced global distribution of developer talent and propelling the industry towards its full potential.
 
 <font color='DarkGreen'> <font face="roboto" size="5"> **IMPORTING TOOLS**
+
 ---
 
 <center>
@@ -50,6 +52,7 @@ In this case, we start by importing some of the most powerful libraries availabl
 <font color='black'> <font face="roboto" size="2">By importing these indispensable tools at the beginning of our analysis, we ensured that we have everything at our disposal to successfully handle any data-related challenge that comes our way confidently.
 
 <font color='DarkGreen'> <font face="roboto" size="5"> **DATA COLLECTION/ EXTRACTION**
+
 ---
 
 <center>
@@ -60,6 +63,7 @@ In this case, we start by importing some of the most powerful libraries availabl
 By importing the csv file containing the Stack Overflow data, We were able to leverage various Python libraries such as Pandas and NumPy to extract meaningful insights. This process ensures that all relevant information is readily available for examination.
 
 <font color='DarkGreen'> <font face="roboto" size="5"> **DATA CLEANING**
+
 ---
 
 <center>
@@ -77,6 +81,7 @@ Columns had null values- for columns with data type 'object' we dropped the null
 * <font color='black'> <font face="roboto" size="2">To make our visualisation appealing, we replaced values in the Age column. Values replaced was 'under 18 years old' with '0-17 years old'
 
 <font color='DarkGreen'> <font face="roboto" size="5"> **DATA VISUALIZATIONS**
+
 ---
 
   * <font color='black'> <font face="roboto" size="2"> Univariate
